@@ -14,7 +14,7 @@
 
 $(call inherit-product, device/xiaomi/ferrari/full_ferrari.mk)
 
-# Inherit some common CM stuff.
+# Inherit some common Metallium stuff.
 $(call inherit-product, vendor/metallium/config/telephony.mk)
 $(call inherit-product, vendor/metallium/main.mk)
 
