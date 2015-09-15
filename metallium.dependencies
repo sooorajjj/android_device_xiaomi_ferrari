@@ -15,4 +15,8 @@
     "repository": "android_device_qcom_common",
     "target_path": "device/qcom/common"
   }
+  {
+    "repository": "mi4i-dev/android_vendor_xiaomi_ferrari",
+    "target_path": "vendor/xiaomi/ferrari",  "revision": "cm-12.1"
+  },
 ]
